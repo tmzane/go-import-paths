@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="go-import" content="go.tmz.dev/musttag git https://github.com/tmzane/musttag">
+        <meta http-equiv="refresh" content="0; url=https://pkg.go.dev/go.tmz.dev/musttag">
+    </head>
+</html>
